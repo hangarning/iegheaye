@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://dootheephe.robertmetzger.de/sitemap.xml
